@@ -32,7 +32,7 @@ I'm an **Aspiring Full Stack Developer** specializing in the **MERN stack (Mongo
 ### 📌 [Weather Forecast App](https://github.com/Aniketkumar005/Weather-React-App)
 A **React.js & Tailwind CSS** weather application that fetches real-time data from OpenWeatherMap API. 
 
-![Weather App Screenshot](https://weather-react-app-g9rw.onrender.com)
+![Weather App](https://weather-react-app-g9rw.onrender.com)
 
 ### 📌 [Airbnb Clone](https://github.com/Aniketkumar005/Airbnb-project)
 A **full-stack Airbnb clone** developed using **Node.js, Express.js, and MongoDB** with an MVC architecture.
