@@ -1,7 +1,5 @@
 # 🚀 Aniket Passi | Full Stack Developer
 
-![Profile Banner](https://source.unsplash.com/1600x400/?technology,developer)
-
 ## 👋 Hello, I'm Aniket Passi!
 
 I'm an **Aspiring Full Stack Developer** specializing in the **MERN stack (MongoDB, Express.js, React.js, Node.js)**. Passionate about building **scalable, efficient, and responsive web applications**, I have hands-on experience in **API integration, database management, and designing user-friendly interfaces**. I'm always eager to learn and improve my skills in Agile development methodologies.
@@ -30,14 +28,10 @@ I'm an **Aspiring Full Stack Developer** specializing in the **MERN stack (Mongo
 ## 🚀 Projects
 
 ### 📌 [Weather Forecast App](https://github.com/Aniketkumar005/Weather-React-App)
-A **React.js & Tailwind CSS** weather application that fetches real-time data from OpenWeatherMap API. 
-
-![Weather App](https://weather-react-app-g9rw.onrender.com)
+A **React.js & Tailwind CSS** weather application that fetches real-time data from OpenWeatherMap API.
 
 ### 📌 [Airbnb Clone](https://github.com/Aniketkumar005/Airbnb-project)
 A **full-stack Airbnb clone** developed using **Node.js, Express.js, and MongoDB** with an MVC architecture.
-
-![Airbnb Clone Screenshot](https://airbnb-project-ogp0.onrender.com)
 
 ---
 
@@ -63,7 +57,8 @@ A **full-stack Airbnb clone** developed using **Node.js, Express.js, and MongoDB
 ## 🌱 Let's Connect!
 
 💼 [LinkedIn](https://www.linkedin.com/in/aniket-passi-2b9a232b6/)  
-📧 [Email](mailto:aniketkumar09957@gmail.com) 
+📧 [Email](mailto:aniketkumar09957@gmail.com)  
+🐦 [Twitter](https://twitter.com/your-twitter)  
 
 ---
 
