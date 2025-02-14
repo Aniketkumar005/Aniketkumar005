@@ -4,7 +4,6 @@
 
 I'm an **Aspiring Full Stack Developer** specializing in the **MERN stack (MongoDB, Express.js, React.js, Node.js)**. Passionate about building **scalable, efficient, and responsive web applications**, I have hands-on experience in **API integration, database management, and designing user-friendly interfaces**. I'm always eager to learn and improve my skills in Agile development methodologies.
 
-💡 **Currently working on:** Airbnb Clone using **Node.js, Express, and MVC architecture**  
 🎯 **Interning at:** Commonwealth Bank (Software Engineering) & City of Moreton Bay (Web Development)  
 📍 **Location:** Meerut, India  
 📬 **Contact:** aniketkumar09957@gmail.com
