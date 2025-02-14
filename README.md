@@ -58,7 +58,6 @@ A **full-stack Airbnb clone** developed using **Node.js, Express.js, and MongoDB
 
 💼 [LinkedIn](https://www.linkedin.com/in/aniket-passi-2b9a232b6/)  
 📧 [Email](mailto:aniketkumar09957@gmail.com)  
-🐦 [Twitter](https://twitter.com/your-twitter)  
 
 ---
 
