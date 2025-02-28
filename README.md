@@ -5,7 +5,9 @@
 I'm an **Aspiring Full Stack Developer** specializing in the **MERN stack (MongoDB, Express.js, React.js, Node.js)**. Passionate about building **scalable, efficient, and responsive web applications**, I have hands-on experience in **API integration, database management, and designing user-friendly interfaces**. I'm always eager to learn and improve my skills in Agile development methodologies.
 
 🎯 **Interning at:** Commonwealth Bank (Software Engineering) & City of Moreton Bay (Web Development)  
+
 📍 **Location:** Meerut, India  
+
 📬 **Contact:** aniketkumar09957@gmail.com
 
 ---
@@ -27,9 +29,11 @@ I'm an **Aspiring Full Stack Developer** specializing in the **MERN stack (Mongo
 ## 🚀 Projects
 
 ### 📌 [Weather Forecast App](https://github.com/Aniketkumar005/Weather-React-App)
+
 A **React.js & Tailwind CSS** weather application that fetches real-time data from OpenWeatherMap API.
 
 ### 📌 [Airbnb Clone](https://github.com/Aniketkumar005/Airbnb-project)
+
 A **full-stack Airbnb clone** developed using **Node.js, Express.js, and MongoDB** with an MVC architecture.
 
 ---
@@ -37,6 +41,7 @@ A **full-stack Airbnb clone** developed using **Node.js, Express.js, and MongoDB
 ## 📈 GitHub Stats
 
 ![Aniket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aniketkumar005&show_icons=true&theme=tokyonight)  
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketkumar005&layout=compact&theme=tokyonight)
 
 ---
@@ -44,11 +49,15 @@ A **full-stack Airbnb clone** developed using **Node.js, Express.js, and MongoDB
 ## 💼 Experience
 
 ### 🏦 Commonwealth Bank (Software Engineering) - *Forage Virtual Intern*
+
 - Worked on **backend & frontend development** projects.
+
 - Gained experience with **MongoDB, Postman, React.js, and Git**.
 
 ### 🌐 City of Moreton Bay (Web Development) - *Forage Virtual Intern*
+
 - Designed and developed **responsive web pages** using **HTML, CSS, and Bootstrap**.
+
 - Created **sitemaps & user flows** for efficient website planning.
 
 ---
@@ -56,6 +65,7 @@ A **full-stack Airbnb clone** developed using **Node.js, Express.js, and MongoDB
 ## 🌱 Let's Connect!
 
 💼 [LinkedIn](https://www.linkedin.com/in/aniket-passi-2b9a232b6/)  
+
 📧 [Email](mailto:aniketkumar09957@gmail.com)  
 
 ---
